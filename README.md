@@ -9,4 +9,5 @@ My favorite projects so far:
 - [CrazyComets](https://github.com/synth-the-humanoid/CrazyComets)
 
 I also post on [YouTube](https://www.youtube.com/@agorel) sometimes, mainly to do with hacking games and reverse engineering.
+
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/david-browning-9746821a3/) as well!
