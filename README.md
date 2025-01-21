@@ -8,6 +8,8 @@ My favorite projects so far:
 - [KHMI](https://github.com/synth-the-humanoid/KingdomHeartsMemoryInterface)
 - [CrazyComets](https://github.com/synth-the-humanoid/CrazyComets)
 
+I'm currently working with a group on the [Pirate Software Game Jam 16](https://itch.io/jam/pirate). It's not out yet, but feel free to check the code [here](https://github.com/MushMello/WetWilly)
+
 I also post on [YouTube](https://www.youtube.com/@agorel) sometimes, mainly to do with hacking games and reverse engineering.
 
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/david-browning-9746821a3/) as well!
