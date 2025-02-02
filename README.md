@@ -8,7 +8,7 @@ My favorite projects so far:
 - [KHMI](https://github.com/synth-the-humanoid/KingdomHeartsMemoryInterface)
 - [CrazyComets](https://github.com/synth-the-humanoid/CrazyComets)
 
-I'm currently working with a group on the [Pirate Software Game Jam 16](https://itch.io/jam/pirate). It's not out yet, but feel free to check the code [here](https://github.com/MushMello/WetWilly)
+I recently worked with a group on the [Pirate Software Game Jam 16](https://itch.io/jam/pirate). It's playable [here](https://synththehumanoid.itch.io/wet-william) and feel free to check the code [here](https://github.com/MushMello/WetWilly)
 
 I also post on [YouTube](https://www.youtube.com/@agorel) sometimes, mainly to do with hacking games and reverse engineering.
 
